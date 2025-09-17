@@ -15,6 +15,7 @@
 <img width="325" height="35" alt="image" src="https://github.com/user-attachments/assets/1708a35c-dd0d-4346-92b6-a0f9bb147e8f" />
 <p>Se o usuário digitar entre 6 e 10, receberá a seguinte resposta:</p>
 <img width="437" height="28" alt="image" src="https://github.com/user-attachments/assets/efdb5999-7acb-44b4-83f3-4f37a52716cd" />
+
 <details>
                 <summary>Observação</summary>
                 <ol>
@@ -22,7 +23,8 @@
      <li> --> caso o número digitado for maior que 10 será exibido uma mensagem de erro</li>               
             </ol>
 </details>
-<h3>Mensagem de erro:</h3>
+
+<h2>Mensagem de erro:</h2>
 <img width="348" height="32" alt="image" src="https://github.com/user-attachments/assets/684d1df5-0b02-4921-9e6a-9b6f9fa88459" />
 
 
